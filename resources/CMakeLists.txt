@@ -1,0 +1,46 @@
+﻿#game objects images
+configure_file ("cookie.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("wall.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("demon.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("door.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("freeze.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("life.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("time.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("super.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("key.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("pacman.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("super pacman.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+#menu images
+configure_file ("menu background1.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Help hovered.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("play hovered.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("quit hovered.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Help normal.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("play normal.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("quit normal.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("information.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("win.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("lost.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+
+#music
+configure_file ("Dragons.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("V-Pop.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+
+#sounds
+configure_file ("bump.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("ice.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("super pacman.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("life.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("key.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("cookie.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("demon.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("time.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("winning.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("lose.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("button.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("hooray.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("time out.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("door.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ("Board.txt" ${CMAKE_BINARY_DIR} COPYONLY)
